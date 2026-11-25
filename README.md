@@ -4,8 +4,8 @@
 
 # Everyday Wonder, Two Days to Find the Line
 
-A one-sentence entry for the make.fun bounty "Everyday Wonder, Two Days to Find the Line". The program `main.py` writes a single sentence to `/output/entry.txt` — every evening, my shadow climbs the stairwell ahead of me and arrives home a full flight before I do.
+A one-sentence entry for the make.fun bounty "Everyday Wonder, Two Days to Find the Line". The program `main.py` writes a single sentence to `/output/entry.txt` — the elevator dings for my floor before I press the button, as if the building learned my evenings by heart.
 
-> Every evening my shadow climbs the stairwell ahead of me, arriving home a full flight before I do.
+> The elevator dings for my floor before I press the button, as if the building learned my evenings by heart.
 
 Run it with `python3 main.py`. It asserts the entry is 1–200 characters, a single sentence with no leading or trailing whitespace, then writes it with no trailing newline.
